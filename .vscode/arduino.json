@@ -1,0 +1,5 @@
+{
+    "sketch": "src/sensor.ino",
+    "port": "/dev/tty.usbmodem14201",
+    "board": "arduino:avr:uno"
+}
